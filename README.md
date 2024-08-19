@@ -1,0 +1,2 @@
+# VMINER
+miner ;o
